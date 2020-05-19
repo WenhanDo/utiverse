@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.151",
+    "@types/react": "^16.9.35"
+  }
+}
